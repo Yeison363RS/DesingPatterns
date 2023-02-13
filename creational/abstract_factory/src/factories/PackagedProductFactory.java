@@ -1,4 +1,4 @@
-package products;
+package factories;
 
 public class PackagedProductFactory implements ProductFactory{
 
